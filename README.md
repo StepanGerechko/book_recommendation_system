@@ -147,9 +147,3 @@ get_recommendations(my_ratings)
 - Добавить визуализацию данных
 - Сравнить user-based и item-based подходы
 - Сделать Streamlit или Flask интерфейс
-
-## Author
-
-**Stepan**
-
-Первый pet-проект по рекомендательным системам и анализу данных.
